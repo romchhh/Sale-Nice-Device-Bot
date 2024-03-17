@@ -16,6 +16,7 @@ This is a Telegram bot designed to facilitate buying and selling transactions wi
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Set up your Telegram bot token, group ID, admin IDs, session name, API hash, API ID, and other configurations in the `config.py` file.
 
+```python
 TOKEN = 'your_telegram_bot_token'
 GROUP_ID = 'your_telegram_group_id'
 ADMIN_IDS = ['admin_user_id1', 'admin_user_id2']
@@ -23,6 +24,7 @@ SESSION_NAME = 'your_telegram_session_name'
 API_HASH = 'your_api_hash'
 API_ID = 'your_api_id'
 channels = ['channel_name1', 'channel_name2']
+
 
 5. Run the bot using `python main.py`.
 
