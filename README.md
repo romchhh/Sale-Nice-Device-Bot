@@ -68,6 +68,24 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Create a new Pull Request.
 
+
+## Screenshots
+Here are some screenshots of the bot in action:
+![image](https://github.com/romchhh/Sale-Nice-Device-Bot/assets/123520267/85b2da70-9867-450c-892f-e098697633ae)
+
+
+With my bot you can sell devices:
+![image](https://github.com/romchhh/Sale-Nice-Device-Bot/assets/123520267/16ab913e-0197-4a71-84b4-5da77a39b202)
+
+![image](https://github.com/romchhh/Sale-Nice-Device-Bot/assets/123520267/d12361b2-c640-4b79-b5a3-78f21842a0b1)
+
+And also you can search some device to buy:
+![image](https://github.com/romchhh/Sale-Nice-Device-Bot/assets/123520267/cadcabb6-582d-4b03-b7e8-cff769e69111)
+![image](https://github.com/romchhh/Sale-Nice-Device-Bot/assets/123520267/64d78553-b525-4833-bda4-cf7201bebb7b)
+
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
