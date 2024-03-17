@@ -55,7 +55,7 @@ This bot utilizes the Telethon library, a Python implementation of the Telegram 
 
 To use Telethon, you need to obtain your API credentials (API ID and API hash) from the Telegram website. These credentials are required to authenticate your bot and establish a connection with Telegram's servers.
 
-For more information on setting up Telethon and obtaining API credentials, refer to the Telethon documentation: [Telethon Documentation](https://docs.telethon.dev/en/latest/)
+For more information on setting up Telethon and obtaining API credentials, refer to the Telethon documentation: [Telethon Documentation]([https://docs.telethon.dev/en/latest/](https://docs.telethon.dev/en/stable/))
 
 ## Contributing
 
