@@ -24,6 +24,28 @@ This is a Telegram bot designed to facilitate buying and selling transactions wi
 - Follow the prompts to provide necessary information when posting a listing.
 - Administrators can access additional functionalities by using the `/admin` command.
 
+
+## Configuration
+
+The bot requires certain configuration parameters to be set up before running. These parameters are stored in the `config.py` file:
+
+- **TOKEN**: The API token generated when you create a new bot using the BotFather on Telegram.
+- **GROUP_ID**: The ID of the Telegram group where the bot will operate. Make sure the bot is added as an administrator to this group.
+- **ADMIN_IDS**: A list of user IDs who have administrative privileges for the bot. These users will have access to additional functionalities.
+- **API_ID** and **API_HASH**: These are the API credentials required for using the Telethon library, which allows the bot to interact with Telegram's API.
+- **SESSION_NAME**: The name of the session file where Telethon will store session data. This file is used to maintain the bot's authorization state.
+- **channels**: A list of Telegram channel names where the bot will search for listings.
+
+Make sure to set up these parameters correctly in the `config.py` file before running the bot.
+
+## Telethon API
+
+This bot utilizes the Telethon library, a Python implementation of the Telegram API. Telethon provides a convenient way to interact with Telegram's API, allowing the bot to send and receive messages, manage contacts, and perform various other actions.
+
+To use Telethon, you need to obtain your API credentials (API ID and API hash) from the Telegram website. These credentials are required to authenticate your bot and establish a connection with Telegram's servers.
+
+For more information on setting up Telethon and obtaining API credentials, refer to the Telethon documentation: [Telethon Documentation](https://docs.telethon.dev/en/latest/)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
