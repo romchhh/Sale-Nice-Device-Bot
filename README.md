@@ -24,7 +24,7 @@ SESSION_NAME = 'your_telegram_session_name'
 API_HASH = 'your_api_hash'
 API_ID = 'your_api_id'
 channels = ['channel_name1', 'channel_name2']
-
+```
 
 5. Run the bot using `python main.py`.
 
