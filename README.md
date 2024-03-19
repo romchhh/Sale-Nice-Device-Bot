@@ -101,9 +101,8 @@ Future improvements and features planned for this project are listed in the [roa
 ## Acknowledgements
 
 - Thanks to the developers of the [aiogram](https://github.com/aiogram/aiogram) library for making it easy to build Telegram bots.
-- Special thanks to [Your Name] for their valuable contributions to this project.
 
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries or feedback, please contact [Roman](mailto:roman.fedoniuk@gmail.com).
 
